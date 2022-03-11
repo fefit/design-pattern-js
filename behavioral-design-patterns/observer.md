@@ -4,8 +4,24 @@
 
 ## 常见的使用场景
 
-- RSS订阅/邮件订阅
+- RSS 订阅/邮件订阅
 
-- MutationObserver: 监听DOM树更改
+- MutationObserver: 监听 DOM 树更改
 
-- DOM事件
+- DOM 事件
+
+- 异步回调
+
+## 代码示例
+
+我们可能碰到过这样的场景，一个插件
+
+```typescript
+class Product{
+
+}
+
+class Market {
+  private onready: boolean = false;
+}
+```
