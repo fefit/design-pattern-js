@@ -1,2 +1,2 @@
-# 模板模式 Template Method
+# 模板方法模式 Template Method
 
